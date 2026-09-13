@@ -5,4 +5,5 @@ let gender;
 let age;
 let phone_number
 let another_phone_number
-let date_of_birth;
+let date_of_birth = new Date();
+console.log(date_of_birth)
