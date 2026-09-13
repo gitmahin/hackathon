@@ -5,3 +5,4 @@ let gender;
 let age;
 let phone_number
 let another_phone_number
+let date_of_birth;
